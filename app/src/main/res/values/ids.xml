@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_view" type="id"/>
+    <item name="text1" type="id">text1</item>
+    <item name="image_view1" type="id"/>
+    <item name="text11" type="id"/>
+    <item name="text12" type="id"/>
+    <item name="image_view2" type="id"/>
+    <item name="text21" type="id"/>
+    <item name="text22" type="id"/>
+    <item name="viewonmap" type="id"/>
+    <item name="viewonmap1" type="id"/>
+</resources>
